@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student, Carleton University
+role: 
 
 ---
 
@@ -19,5 +19,5 @@ Emilee Petrie is a student at Carleton University, completing an undegraduate de
 
 Emilee has a dog named Poca. 
 
-![content/authors/admin/IMG_5780.JPG]
+![IMG_5780](https://github.com/EmileePetrie/academic-kickstart/blob/master/content/authors/admin/IMG_5780.JPG) 
 
