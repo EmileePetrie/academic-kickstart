@@ -19,5 +19,5 @@ Emilee Petrie is a student at Carleton University, completing an undegraduate de
 
 Emilee has a dog named Poca. 
 
-
+![content/authors/admin/IMG_5780.JPG]
 
