@@ -14,10 +14,10 @@ role:
 
 ---
 
-# Who is Emilee?
-Emilee Petrie is a student at Carleton University, completing an undegraduate degree in English and History. Her research interests include Canadian history, Indigenous history and dragons. She has created this repository as part of the course Museums and Digital History taught by Professor Shawn Graham. 
+### Who is Emilee Petrie?
+Emilee Petrie is a person. 
 
-Emilee has a dog named Poca. 
+Thank you. 
 
-![IMG_5780](https://github.com/EmileePetrie/academic-kickstart/blob/master/content/authors/admin/IMG_5780.JPG) 
+*This repository has been constructed as part of the course Museums and Digital History, which is taught by Professor Shawn Graham.*
 
