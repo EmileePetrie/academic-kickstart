@@ -15,9 +15,7 @@ role:
 ---
 
 ### Who is Emilee Petrie?
-Emilee Petrie is a person. 
-
-Thank you. 
+Emilee Petrie is a person who has a dog named Poca. 
 
 *This repository has been constructed as part of the course Museums and Digital History, which is taught by Professor Shawn Graham.*
 
