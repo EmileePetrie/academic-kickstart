@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Student, Carleton University
 
-# Organizations/Affiliations
-organizations:
-- name: Carleton University
-  url: ""
+---
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently studying English and History. My research interests include Canadian history, Indigenous history and dragons.
+Emilee Petrie is a student at Carleton University, completing an undegraduate degree in English and History. Her research interests include Canadian history, Indigenous history and dragons. She has created this repository as part of the course Museums and Digital History taught by Professor Shawn Graham. 
+
+Emilee has a dog named Poca. 
+
 
 
