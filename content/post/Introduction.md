@@ -4,7 +4,7 @@ title: Introduction
 summary: Introducing HIST4806A and my work
 ---
 
-#HIST4806A: Museums + Digital History 
+# HIST4806A: Museums + Digital History 
 
 *This repository has been constructed as part of the course HIST4806A: Museums + Digital History, which is taught by Professor Shawn Graham.*
 
