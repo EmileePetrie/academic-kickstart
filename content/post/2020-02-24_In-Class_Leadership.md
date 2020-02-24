@@ -68,3 +68,4 @@ A lot of work needs to be done to cover all components of affective data, but th
 
 *So I will leave you with this question: how might ideas of representational and affective interpretation influence or correspond with the projects we are working on in this class?*
 
+[Interpretation PowerPoint Presentation](https://docs.google.com/presentation/d/1mC3ZEyvbs_4i8T_-eNiwM6mSMHCnRtu5O2womo9T-Ys/edit?usp=sharing) 
