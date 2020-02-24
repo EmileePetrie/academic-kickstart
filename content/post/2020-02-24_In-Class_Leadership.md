@@ -21,7 +21,7 @@ They define interpretation as “a narrative and a method of communicating to an
 
 Anderson et al. also discuss museums as Eurocentric institutions that act as keepers and conveyers of knowledge (90). Because they are derived from colonial systems and values, museums often present a narrative that espouses colonial values and privileges white perspectives. The study of history in Europe and North America has been shaped by Rankean ideas of documentation, which privileges European styles of documentation and, therefore, Eurocentric narratives. Therefore, groups who do not document their history in the same textual manner as Europeans find themselves absent in records and minimally represented in museums. 
 
-Question: **How can we interpret history in non-Eurocentric terms?**
+Question: *How can we interpret history in non-Eurocentric terms?*
 
 However, there has been movement to more diverse interpretations in the last few decades and to question these historical silences or absences. This movement is supported by Anderson et al. who argue that “Museum interpretation can and should move in the direction of being dialogic (conversational), de-centered (all people given equal consideration), and open source (sharing authority with audiences, particularly those directly affected by the legacies of our spaces)” (90). 
 
@@ -45,7 +45,7 @@ The CMHR’s The Blanket Witness exhibition is also very affective, witnessing t
 ### Erin Canning's "Affect in Information Systems: A Knowledge Organization System Approach to Documenting Visitor-Artwork Experiences"
 In “Affect in Information Systems: A Knowledge Organization System Approach to Documenting Visitor-Artwork Experiences,” Erin Canning looks at affect as a way we can better understand objects and how they are interpreted or experienced by visitors. She draws on Cifor’s discussion of affect in defining the term. She defines it “as a ‘culturally, socially, and historically constructed category that both encompasses and reaches beyond feelings and emotions.’” 
 
-Question: **How do you identify affect for the purpose of evaluating it as data?**
+Question: *How do you identify affect for the purpose of evaluating it as data?*
 
 According to scholars of aesthetic, “aesthetic (affective) qualities exist in potential within an artwork, and that an aesthetic experience is the actualization of those qualities.” In the context of a museum, an object is not solely an object but something that is experienced. And that experience needs to be accounted for. 
 
@@ -53,7 +53,7 @@ Canning’s article looks at a conceptual framework for including affect in how 
 
 Canning proposes an event-centric information model as the model through which we can incorporate affective metadata. 
 
-Question: **What is the difference between an event-centric and an object-centric information model?**
+Question: *What is the difference between an event-centric and an object-centric information model?*
 
 “[E]vent-centric models centre an event which then links data points to an object.” This is as opposed to object-centric models in which data is centered around the object. The event-centric model allows for the incorporation of a greater context of the object, acknowledging the affect of that event that is conveyed through the object to the viewer. 
 
@@ -66,6 +66,6 @@ The thesaurus standardizes affective metadata, the evaluation of affective exper
 A lot of work needs to be done to cover all components of affective data, but there are routes and models available to start this work. As Canning writes, “Affective attributes make up a part of what an artwork is and does, and can only be seen through the viewers’ experiences with the artwork.”
 
 
-*So I will leave you with this question: how might ideas of representational and affective interpretation influence or correspond with the projects we are working on in this class?*
+**So I will leave you with this question: how might ideas of representational and affective interpretation influence or correspond with the projects we are working on in this class?**
 
 [Interpretation PowerPoint Presentation](https://docs.google.com/presentation/d/1mC3ZEyvbs_4i8T_-eNiwM6mSMHCnRtu5O2womo9T-Ys/edit?usp=sharing) 
