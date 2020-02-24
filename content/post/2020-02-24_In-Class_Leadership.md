@@ -1,6 +1,6 @@
 ---
 date: 2020-02-24
-title: Interpretation: In-Class Leadership
+title: Discussing Interpretation
 summary: leading in-class discussion on articles relating to interpretation
 
 ---
